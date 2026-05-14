@@ -39,6 +39,35 @@ Goals:
 - Generate episode folder structure
 - Generate template files
 
+## Phase 2A - Web App Product Layer
+
+Status: In Progress
+
+Goals:
+
+- Define agency and client web app users
+- Define role-based access
+- Define agency admin dashboard
+- Define client portal
+- Define task, access, and deliverable workflow
+- Define approval-centered deliverable states
+- Benchmark Riverside-style feature categories without copying a recording-first product model
+
+## Phase 2B - Web App Data Model
+
+Status: Next
+
+Goals:
+
+- Define workspace model
+- Define client model
+- Define user and role model
+- Define episode model
+- Define task model
+- Define deliverable model
+- Define approval model
+- Define activity log model
+
 ## Phase 3 - Production Cycle Generator
 
 Status: Planned

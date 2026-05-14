@@ -35,6 +35,7 @@ A productized AI Podcast Producer Agent operating system.
 | workflows/ | End-to-end agent workflow maps |
 | prompts/ | Prompts for Claude, Codex, Hermes, and OpenClaw |
 | docs/ | Supporting documentation and productization notes |
+| product/ | Web app product specs, UX modules, role/access rules, and MVP sequencing |
 
 ## Source of Truth
 
@@ -46,8 +47,21 @@ PODCAST_OS_AGENT_MASTER_SPEC.md
 
 ## Current Stage
 
-Spec foundation.
+Product layer specification.
 
 ## Next Stage
 
-Generate all required Markdown files and begin converting static SOPs into executable local workflows.
+Lock the web app data model for workspaces, clients, users, roles, episodes, tasks, deliverables, approvals, and activity logs.
+
+## Product Spec Files
+
+| File | Purpose |
+| --- | --- |
+| product/webapp-product-spec.md | Core product definition for the agency/client web app |
+| product/user-roles-and-permissions.md | Role-based access and permission rules |
+| product/agency-admin-dashboard.md | Agency dashboard and setup surface |
+| product/client-portal-spec.md | Client-facing review and visibility portal |
+| product/deliverables-workflow-spec.md | Deliverable states, approval flow, and version concepts |
+| product/task-access-deliverables-spec.md | Task assignment, scoped access, and deliverable output rules |
+| product/riverside-feature-benchmark.md | Riverside-style feature inspiration and MVP boundaries |
+| product/mvp-feature-sequence.md | Recommended build sequence before app scaffold |

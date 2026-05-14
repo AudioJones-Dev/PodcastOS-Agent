@@ -96,6 +96,16 @@ Initial local stack:
 
 ## Status
 
-Current status: **Spec foundation phase**
+Current status: **Product layer specification phase**
 
-Next milestone: convert specs into executable workflow generators and agent task runners.
+Next milestone: lock the web app data model for workspaces, clients, users, roles, episodes, tasks, deliverables, approvals, and activity logs.
+
+## Product Layer
+
+The web app product specs live in:
+
+```txt
+product/
+```
+
+This section defines the friendly agency/client UI for setup, access, task assignment, approval gates, deliverable tracking, and reporting.

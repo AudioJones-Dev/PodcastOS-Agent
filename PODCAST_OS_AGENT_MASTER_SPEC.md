@@ -333,3 +333,40 @@ Turn Podcast OS into a sellable Agent Operating System:
 - Pricing model
 - Installation guide
 - Agency deployment model
+
+## 9. Web App Product Layer
+
+The Podcast OS web app should make the operating system easy for agencies, producers, clients, editors, contractors, hosts, and reviewers to use.
+
+The first web app layer should focus on:
+
+- Workspace and client setup
+- Role-based access
+- Client Bible setup
+- Episode pipeline visibility
+- Task assignment
+- Deliverable tracking
+- Approval gates
+- Publishing checklists
+- Reports and analytics visibility
+
+The web app should be production-operations-first, not recording-first. Riverside-style recording and media features are useful reference points, but the first build should prioritize the system of work around podcast production before native recording or editing tools.
+
+### 9.1 MVP Product Objects
+
+```yaml
+product_objects:
+  - workspace
+  - client
+  - user
+  - role
+  - episode
+  - task
+  - deliverable
+  - approval
+  - activity_log
+```
+
+### 9.2 Product Rule
+
+The web app must not bypass the approval gates defined in this spec. Publishing, strategy changes, report delivery, and brand-sensitive decisions require explicit approval state.
