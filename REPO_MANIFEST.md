@@ -65,3 +65,9 @@ Lock the web app data model for workspaces, clients, users, roles, episodes, tas
 | product/task-access-deliverables-spec.md | Task assignment, scoped access, and deliverable output rules |
 | product/riverside-feature-benchmark.md | Riverside-style feature inspiration and MVP boundaries |
 | product/mvp-feature-sequence.md | Recommended build sequence before app scaffold |
+| product/data-model-spec.md | MVP entity definitions for the future web app |
+| product/entity-relationship-map.md | Relationship rules and rollup behavior |
+| product/approval-state-machine.md | Approval gates, states, locks, and revision loops |
+| product/activity-log-spec.md | Audit trail rules and logged event categories |
+| product/screen-to-data-map.md | MVP screen dependencies mapped to records |
+| product/data-model-mvp-lock.md | Locked MVP data model decisions and deferred records |

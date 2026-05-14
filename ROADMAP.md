@@ -55,7 +55,7 @@ Goals:
 
 ## Phase 2B - Web App Data Model
 
-Status: Next
+Status: Complete
 
 Goals:
 
@@ -67,6 +67,21 @@ Goals:
 - Define deliverable model
 - Define approval model
 - Define activity log model
+
+## Phase 2C - Wireframe Specification
+
+Status: Next
+
+Goals:
+
+- Define dashboard wireframe
+- Define client setup wireframe
+- Define settings/access wireframe
+- Define episode pipeline wireframe
+- Define task detail wireframe
+- Define deliverable review wireframe
+- Define client portal wireframe
+- Define reports wireframe
 
 ## Phase 3 - Production Cycle Generator
 

@@ -6,7 +6,7 @@ Define the build sequence for turning the Markdown Podcast OS foundation into a 
 
 ## Phase 2.1 - Product Spec Lock
 
-Status: Current
+Status: Complete
 
 Outputs:
 
@@ -27,7 +27,7 @@ Completion criteria:
 
 ## Phase 2.2 - Data Model Lock
 
-Status: Next
+Status: Complete
 
 Outputs:
 
@@ -39,6 +39,10 @@ Outputs:
 - Deliverable model
 - Approval model
 - Activity log model
+- Entity relationship map
+- Approval state machine
+- Screen-to-data map
+- MVP lock decisions
 
 Completion criteria:
 
@@ -49,7 +53,7 @@ Completion criteria:
 
 ## Phase 2.3 - Wireframe Spec
 
-Status: Planned
+Status: Next
 
 Outputs:
 

@@ -98,7 +98,7 @@ Initial local stack:
 
 Current status: **Product layer specification phase**
 
-Next milestone: lock the web app data model for workspaces, clients, users, roles, episodes, tasks, deliverables, approvals, and activity logs.
+Next milestone: define MVP wireframes for the agency dashboard, client setup, settings/access, episode pipeline, task detail, deliverable review, client portal, and reports.
 
 ## Product Layer
 
@@ -109,3 +109,14 @@ product/
 ```
 
 This section defines the friendly agency/client UI for setup, access, task assignment, approval gates, deliverable tracking, and reporting.
+
+The Phase 2B data model is defined in:
+
+```txt
+product/data-model-spec.md
+product/entity-relationship-map.md
+product/approval-state-machine.md
+product/activity-log-spec.md
+product/screen-to-data-map.md
+product/data-model-mvp-lock.md
+```

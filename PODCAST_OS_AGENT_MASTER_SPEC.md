@@ -370,3 +370,7 @@ product_objects:
 ### 9.2 Product Rule
 
 The web app must not bypass the approval gates defined in this spec. Publishing, strategy changes, report delivery, and brand-sensitive decisions require explicit approval state.
+
+### 9.3 Data Model Rule
+
+Approvals, deliverables, memberships, file references, and activity logs must be modeled as first-class records. Do not collapse access, approval, or audit behavior into simple status text fields once implementation begins.

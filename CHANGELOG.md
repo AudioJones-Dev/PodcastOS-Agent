@@ -12,3 +12,9 @@ All notable changes to Podcast OS will be documented in this file.
 - Added web app product spec package.
 - Added agency admin dashboard, client portal, user roles, task/access/deliverables, deliverables workflow, Riverside benchmark notes, and MVP feature sequence.
 - Updated repo manifest and roadmap for the Phase 2 product layer.
+
+## 0.3.0 - 2026-05-14
+
+- Added Phase 2B web app data model specs.
+- Defined MVP entities for workspaces, users, memberships, clients, episodes, tasks, deliverables, approvals, comments, file references, activity logs, reports, and workflow templates.
+- Added entity relationship map, approval state machine, activity log spec, screen-to-data map, and MVP lock decisions.
