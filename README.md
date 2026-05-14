@@ -98,7 +98,7 @@ Initial local stack:
 
 Current status: **Product layer specification phase**
 
-Next milestone: define MVP wireframes for the agency dashboard, client setup, settings/access, episode pipeline, task detail, deliverable review, client portal, and reports.
+Next milestone: lock the technical stack for framework, auth, database, role/access enforcement, file/link storage, local development, and deployment.
 
 ## Product Layer
 
@@ -119,4 +119,10 @@ product/approval-state-machine.md
 product/activity-log-spec.md
 product/screen-to-data-map.md
 product/data-model-mvp-lock.md
+```
+
+The Phase 2C MVP wireframes are defined in:
+
+```txt
+product/wireframes/
 ```

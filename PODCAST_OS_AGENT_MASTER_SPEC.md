@@ -374,3 +374,7 @@ The web app must not bypass the approval gates defined in this spec. Publishing,
 ### 9.3 Data Model Rule
 
 Approvals, deliverables, memberships, file references, and activity logs must be modeled as first-class records. Do not collapse access, approval, or audit behavior into simple status text fields once implementation begins.
+
+### 9.4 Wireframe Rule
+
+The first UI build should follow the MVP screen paths defined in `product/wireframes/`. The operational screens should come before marketing surfaces, native recording, native editing, or deep publishing integrations.

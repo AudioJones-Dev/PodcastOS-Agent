@@ -70,7 +70,7 @@ Goals:
 
 ## Phase 2C - Wireframe Specification
 
-Status: Next
+Status: Complete
 
 Goals:
 
@@ -82,6 +82,20 @@ Goals:
 - Define deliverable review wireframe
 - Define client portal wireframe
 - Define reports wireframe
+
+## Phase 2D - Technical Stack Decision
+
+Status: Next
+
+Goals:
+
+- Confirm app framework
+- Confirm auth approach
+- Confirm database approach
+- Confirm role/access enforcement model
+- Confirm file/link storage strategy
+- Confirm local development workflow
+- Confirm deployment path
 
 ## Phase 3 - Production Cycle Generator
 

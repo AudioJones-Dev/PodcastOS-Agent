@@ -18,3 +18,9 @@ All notable changes to Podcast OS will be documented in this file.
 - Added Phase 2B web app data model specs.
 - Defined MVP entities for workspaces, users, memberships, clients, episodes, tasks, deliverables, approvals, comments, file references, activity logs, reports, and workflow templates.
 - Added entity relationship map, approval state machine, activity log spec, screen-to-data map, and MVP lock decisions.
+
+## 0.4.0 - 2026-05-14
+
+- Added Phase 2C MVP wireframe specs.
+- Defined app shell/navigation, agency dashboard, client setup, settings/access, episode pipeline, task detail, deliverable review, client portal, and reports screens.
+- Updated roadmap and manifest for the wireframe specification layer.

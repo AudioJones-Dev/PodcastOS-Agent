@@ -53,10 +53,11 @@ Completion criteria:
 
 ## Phase 2.3 - Wireframe Spec
 
-Status: Next
+Status: Complete
 
 Outputs:
 
+- App shell and navigation wireframe
 - Dashboard wireframe
 - Client setup wireframe
 - Episode pipeline wireframe
@@ -64,6 +65,7 @@ Outputs:
 - Deliverable review wireframe
 - Client portal wireframe
 - Settings/access wireframe
+- Reports wireframe
 
 Completion criteria:
 
@@ -73,7 +75,7 @@ Completion criteria:
 
 ## Phase 2.4 - Technical Stack Decision
 
-Status: Planned
+Status: Next
 
 Recommended default:
 
