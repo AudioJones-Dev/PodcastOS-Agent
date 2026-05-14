@@ -1,0 +1,101 @@
+# Podcast OS - AI Podcast Producer Agent
+
+## Overview
+
+Podcast OS is an agentic operating system for podcast-led content marketing.
+
+It is designed to help creators, agencies, experts, and founder-led brands turn podcast production into a repeatable authority-building and organic growth engine.
+
+This repo contains the foundational architecture for the AI Podcast Producer Agent, including:
+
+- Agent roles
+- SOPs
+- Production workflows
+- Folder schemas
+- Automation triggers
+- Client knowledge base structure
+- Publishing systems
+- Analytics loops
+- Productization notes
+
+## Core Loop
+
+```txt
+Lead
+-> Discovery
+-> Client Bible
+-> Topic Strategy
+-> Episode Planning
+-> Production
+-> Post-Production
+-> Repurposing
+-> Publishing
+-> Distribution
+-> Analytics
+-> Topic Refresh
+-> Repeat
+```
+
+## Strategic Purpose
+
+Podcast OS is not just a podcast editing workflow.
+
+It is a structured content production system built around:
+
+- Brand authority
+- Organic content marketing
+- SEO/AEO visibility
+- Topic cluster strategy
+- Client acquisition
+- Repurposable media assets
+- Repeatable production cycles
+
+## Primary Agent
+
+The primary operating agent is:
+
+```txt
+Podcast OS Producer Agent
+```
+
+This agent coordinates all sub-agents and manages the full lifecycle from client intake to analytics-driven topic refresh.
+
+## Sub-Agent System
+
+The system includes specialized agents for:
+
+- Lead intake
+- Discovery
+- Client knowledge base creation
+- Topic strategy
+- Episode planning
+- Production coordination
+- Post-production
+- Transcript analysis
+- Content repurposing
+- Publishing
+- Distribution administration
+- Analytics
+- Topic refresh
+
+## Tool Stack
+
+Initial local stack:
+
+- Claude CoWork
+- Claude Code
+- Codex Desktop
+- Hermes Agent
+- OpenClaw
+- Obsidian
+- GitHub
+- Local filesystem
+- AI video editing tools
+- AI transcript tools
+- Creative tools such as Canva, Figma, Gamma
+
+## Status
+
+Current status: **Spec foundation phase**
+
+Next milestone: convert specs into executable workflow generators and agent task runners.
