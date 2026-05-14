@@ -94,7 +94,7 @@ Completion criteria:
 
 ## Phase 2.5 - App Scaffold
 
-Status: Next
+Status: Complete
 
 Outputs:
 
@@ -111,6 +111,25 @@ Completion criteria:
 - A demo agency can create a client and episode.
 - A producer can assign a task.
 - A client can approve a deliverable.
+
+## Phase 2.7 - Data and Auth Wiring
+
+Status: Next
+
+Outputs:
+
+- Drizzle schema
+- Auth.js setup
+- Permission helper layer
+- Database-backed dashboard reads
+- Server Actions for core mutations
+- Approval gate mutation checks
+
+Completion criteria:
+
+- Seed data is replaced by database reads.
+- App routes enforce workspace/client access.
+- Approval actions require explicit authority.
 
 ## Phase 2.6 - Workflow Generator Bridge
 

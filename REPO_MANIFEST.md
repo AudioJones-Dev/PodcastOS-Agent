@@ -36,6 +36,7 @@ A productized AI Podcast Producer Agent operating system.
 | prompts/ | Prompts for Claude, Codex, Hermes, and OpenClaw |
 | docs/ | Supporting documentation and productization notes |
 | product/ | Web app product specs, UX modules, role/access rules, and MVP sequencing |
+| apps/web/ | Next.js web app scaffold for the agency and client production console |
 
 ## Source of Truth
 
@@ -73,3 +74,16 @@ Lock the web app data model for workspaces, clients, users, roles, episodes, tas
 | product/data-model-mvp-lock.md | Locked MVP data model decisions and deferred records |
 | product/wireframes/ | Text wireframes for MVP web app screens and navigation |
 | product/technical-stack/ | Technical stack decisions for the future web app implementation |
+
+## App Scaffold
+
+| Path | Purpose |
+| --- | --- |
+| apps/web/src/app/(agency)/dashboard | Agency dashboard route |
+| apps/web/src/app/(agency)/clients/new | Client setup route |
+| apps/web/src/app/(agency)/episodes | Episode pipeline route |
+| apps/web/src/app/(agency)/tasks/[taskId] | Task detail route |
+| apps/web/src/app/(agency)/deliverables/[deliverableId] | Deliverable review route |
+| apps/web/src/app/(agency)/reports | Reports route |
+| apps/web/src/app/(agency)/settings | Settings and access route |
+| apps/web/src/app/(client)/portal | Client portal route |

@@ -98,7 +98,7 @@ Initial local stack:
 
 Current status: **Product layer specification phase**
 
-Next milestone: scaffold the Next.js web app while preserving the Markdown operating-system specs.
+Next milestone: wire database schema, Auth.js session foundation, and permission-aware data access helpers.
 
 ## Product Layer
 
@@ -131,4 +131,16 @@ The Phase 2D technical stack lock is defined in:
 
 ```txt
 product/technical-stack/
+```
+
+The Phase 2E app scaffold lives in:
+
+```txt
+apps/web/
+```
+
+Run locally:
+
+```bash
+npm --prefix apps/web run dev -- --hostname 127.0.0.1 --port 3000
 ```

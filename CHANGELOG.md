@@ -30,3 +30,9 @@ All notable changes to Podcast OS will be documented in this file.
 - Added Phase 2D technical stack lock.
 - Documented Next.js App Router, TypeScript, Tailwind, shadcn/ui, Auth.js, Postgres, Drizzle, file/link references, local development, and Vercel deployment decisions.
 - Added implementation readiness checklist for the app scaffold phase.
+
+## 0.6.0 - 2026-05-14
+
+- Added Phase 2E Next.js web app scaffold under `apps/web`.
+- Added static MVP agency and client routes for dashboard, client setup, episode pipeline, task detail, deliverable review, reports, settings/access, and client portal.
+- Added seed data, app shell, production-console UI components, local validation scripts, and project-specific app README.

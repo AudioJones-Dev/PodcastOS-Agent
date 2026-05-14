@@ -382,3 +382,7 @@ The first UI build should follow the MVP screen paths defined in `product/wirefr
 ### 9.5 Technical Stack Rule
 
 The first web app implementation should use Next.js App Router, TypeScript, Tailwind CSS, shadcn/ui, Auth.js, Postgres, Drizzle ORM, file/link references, and Vercel deployment unless the operator explicitly changes the stack before scaffold.
+
+### 9.6 App Scaffold Rule
+
+The first scaffold lives under `apps/web` to preserve the Markdown operating-system root. Static seed data is acceptable only for the initial UI scaffold; production workflows must move to database-backed records before client use.

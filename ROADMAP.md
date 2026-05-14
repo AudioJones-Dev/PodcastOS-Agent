@@ -99,7 +99,7 @@ Goals:
 
 ## Phase 2E - App Scaffold
 
-Status: Next
+Status: Complete
 
 Goals:
 
@@ -109,6 +109,19 @@ Goals:
 - Add initial route structure
 - Add local validation commands
 - Verify app runs locally
+
+## Phase 2F - Data and Auth Wiring
+
+Status: Next
+
+Goals:
+
+- Add database schema using Drizzle
+- Add Auth.js session foundation
+- Add data access layer permission helpers
+- Replace seed data with database-backed reads
+- Add create/update flows for clients, tasks, deliverables, approvals, and reports
+- Preserve approval gate enforcement in mutations
 
 ## Phase 3 - Production Cycle Generator
 
