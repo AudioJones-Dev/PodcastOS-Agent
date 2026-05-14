@@ -85,7 +85,7 @@ Goals:
 
 ## Phase 2D - Technical Stack Decision
 
-Status: Next
+Status: Complete
 
 Goals:
 
@@ -96,6 +96,19 @@ Goals:
 - Confirm file/link storage strategy
 - Confirm local development workflow
 - Confirm deployment path
+
+## Phase 2E - App Scaffold
+
+Status: Next
+
+Goals:
+
+- Scaffold Next.js App Router app
+- Preserve existing Markdown spec directories
+- Add TypeScript, Tailwind, and app shell
+- Add initial route structure
+- Add local validation commands
+- Verify app runs locally
 
 ## Phase 3 - Production Cycle Generator
 

@@ -72,3 +72,4 @@ Lock the web app data model for workspaces, clients, users, roles, episodes, tas
 | product/screen-to-data-map.md | MVP screen dependencies mapped to records |
 | product/data-model-mvp-lock.md | Locked MVP data model decisions and deferred records |
 | product/wireframes/ | Text wireframes for MVP web app screens and navigation |
+| product/technical-stack/ | Technical stack decisions for the future web app implementation |

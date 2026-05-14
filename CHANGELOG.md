@@ -24,3 +24,9 @@ All notable changes to Podcast OS will be documented in this file.
 - Added Phase 2C MVP wireframe specs.
 - Defined app shell/navigation, agency dashboard, client setup, settings/access, episode pipeline, task detail, deliverable review, client portal, and reports screens.
 - Updated roadmap and manifest for the wireframe specification layer.
+
+## 0.5.0 - 2026-05-14
+
+- Added Phase 2D technical stack lock.
+- Documented Next.js App Router, TypeScript, Tailwind, shadcn/ui, Auth.js, Postgres, Drizzle, file/link references, local development, and Vercel deployment decisions.
+- Added implementation readiness checklist for the app scaffold phase.

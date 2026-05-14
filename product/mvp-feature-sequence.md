@@ -75,7 +75,7 @@ Completion criteria:
 
 ## Phase 2.4 - Technical Stack Decision
 
-Status: Next
+Status: Complete
 
 Recommended default:
 
@@ -94,7 +94,7 @@ Completion criteria:
 
 ## Phase 2.5 - App Scaffold
 
-Status: Planned
+Status: Next
 
 Outputs:
 
@@ -132,4 +132,4 @@ Completion criteria:
 
 ## Build Rule
 
-Do not scaffold the app until Phase 2.1 and Phase 2.2 are locked enough to avoid rework.
+Do not scaffold the app until Phase 2.1, Phase 2.2, Phase 2.3, and Phase 2.4 are locked enough to avoid rework.

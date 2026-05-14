@@ -378,3 +378,7 @@ Approvals, deliverables, memberships, file references, and activity logs must be
 ### 9.4 Wireframe Rule
 
 The first UI build should follow the MVP screen paths defined in `product/wireframes/`. The operational screens should come before marketing surfaces, native recording, native editing, or deep publishing integrations.
+
+### 9.5 Technical Stack Rule
+
+The first web app implementation should use Next.js App Router, TypeScript, Tailwind CSS, shadcn/ui, Auth.js, Postgres, Drizzle ORM, file/link references, and Vercel deployment unless the operator explicitly changes the stack before scaffold.

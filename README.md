@@ -98,7 +98,7 @@ Initial local stack:
 
 Current status: **Product layer specification phase**
 
-Next milestone: lock the technical stack for framework, auth, database, role/access enforcement, file/link storage, local development, and deployment.
+Next milestone: scaffold the Next.js web app while preserving the Markdown operating-system specs.
 
 ## Product Layer
 
@@ -125,4 +125,10 @@ The Phase 2C MVP wireframes are defined in:
 
 ```txt
 product/wireframes/
+```
+
+The Phase 2D technical stack lock is defined in:
+
+```txt
+product/technical-stack/
 ```
